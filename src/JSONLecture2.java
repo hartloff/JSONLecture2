@@ -4,7 +4,7 @@ public class JSONLecture2 {
 
     // 2 points
     static String Q1(String json){
-        // given a JSON String that is an array in this format [5,"airplane","volunteer","nope"],
+        // given a JSON String that is an array in this format [4,"roy","guzzles","runny","prophecies"],
         // that is 5 elements consisting of an int then 4 Strings, return the data at index 3 as a String.
 
         return "";
@@ -22,7 +22,7 @@ public class JSONLecture2 {
 
 
     public static void main(String[] args) {
-
+        
     }
 
 }
